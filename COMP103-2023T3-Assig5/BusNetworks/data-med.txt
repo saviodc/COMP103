@@ -1,0 +1,21 @@
+Auckland Christchurch Dunedin Gisborne Greymouth Hamilton Napier Nelson NewPlymouth PalmerstonNorth Queenstown Rotorua Tauranga Timaru Taupo Wellington Westport Whanganui
+Auckland Hamilton
+Christchurch Greymouth
+Christchurch Timaru
+Dunedin Queenstown
+Dunedin Timaru
+Gisborne Napier
+Gisborne Rotorua
+Greymouth Queenstown
+Greymouth Westport
+Hamilton PalmerstonNorth
+Hamilton Rotorua
+Napier Taupo
+Napier Wellington
+Nelson Westport
+NewPlymouth Whanganui
+PalmerstonNorth Taupo
+PalmerstonNorth Wellington
+Queenstown Timaru
+Rotorua Taupo
+Rotorua Tauranga

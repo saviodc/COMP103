@@ -1,0 +1,153 @@
+42
+Ashburton -43.89834 171.73011
+Auckland -36.86667 174.76667
+Blenheim -41.51603 173.9528
+Christchurch -43.53333 172.63333
+Dunedin -45.87416 170.50361
+FoxGlacier -43.46460 170.01782
+FranzJosef -43.46386 170.18825
+Gisborne -38.65333 178.00417
+Gore -46.10282 168.94357
+Greymouth -42.46667 171.2
+Hamilton -37.78333 175.28333
+Hastings -39.6381 176.84918
+Hokitika -42.71737 170.96654
+Invercargill -46.4 168.35
+Kaikoura -42.40082 173.68139
+Kaitaia -35.11733 173.26756
+Kerikeri -35.22676 173.94739
+Levin -40.63333 175.275
+Matamata -37.8106 175.76237
+Napier -39.48333 176.91667
+Nelson -41.27078 173.28404
+NewPlymouth -39.06667 174.08333
+Oamaru -45.09746 170.96911
+Paihia -35.28067 174.09103
+PalmerstonNorth -40.35636 175.61113
+Picton -41.29059 174.001
+Punakaiki -42.10841 171.33631
+Queenstown -45.03023 168.66271
+Rotorua -38.13874 176.24516
+Taupo -38.68333 176.08333
+Tauranga -37.68611 176.16667
+TeAnau -45.41667 167.71667
+Tekapo -44.00467 170.47712
+Thames -37.13832 175.54011
+Timaru -44.4 171.25
+Wanaka -44.69574 169.11156
+Wanganui -39.93333 175.05
+Wellington -41.28664 174.77557
+Westport -41.75262 171.6037
+Whakatane -37.95855 176.98545
+Whangarei -35.73167 174.32391
+Whitianga -36.82183 175.70044
+Kaitaia Kerikeri
+Kerikeri Paihia
+Kerikeri Kaitaia
+Paihia Kerikeri
+Paihia Whangarei
+Whangarei Paihia
+Whangarei Auckland
+Auckland Whangarei
+Auckland Thames
+Auckland Hamilton
+Thames Whitianga
+Thames Tauranga
+Thames Auckland
+Thames Hamilton
+Whitianga Thames
+Hamilton Auckland
+Hamilton Matamata
+Hamilton Thames
+Hamilton Rotorua
+Hamilton NewPlymouth
+Hamilton Wanganui
+Matamata Tauranga
+Matamata Hamilton
+Tauranga Rotorua
+Tauranga Thames
+Tauranga Matamata
+Rotorua Tauranga
+Rotorua Hamilton
+Rotorua Whakatane
+Rotorua Taupo
+Whakatane Rotorua
+Whakatane Gisborne
+Gisborne Whakatane
+Gisborne Napier
+Taupo Rotorua
+Taupo Napier
+Taupo Wanganui
+Taupo PalmerstonNorth
+Taupo Levin
+NewPlymouth Wanganui
+NewPlymouth Hamilton
+Wanganui NewPlymouth
+Wanganui Hamilton
+Wanganui Taupo
+Wanganui PalmerstonNorth
+Wanganui Levin
+Napier Taupo
+Napier Gisborne
+Napier Hastings
+Hastings Napier
+Hastings PalmerstonNorth
+PalmerstonNorth Hastings
+PalmerstonNorth Wanganui
+PalmerstonNorth Levin
+PalmerstonNorth Taupo
+Levin PalmerstonNorth
+Levin Wellington
+Levin Wanganui
+Levin Taupo
+Wellington Levin
+Picton Nelson
+Picton Blenheim
+Nelson Picton
+Nelson Westport
+Westport Nelson
+Westport Punakaiki
+Punakaiki Westport
+Punakaiki Greymouth
+Greymouth Punakaiki
+Greymouth Hokitika
+Hokitika Greymouth
+Hokitika FranzJosef
+FranzJosef FoxGlacier
+FranzJosef Hokitika
+FoxGlacier FranzJosef
+FoxGlacier Wanaka
+Blenheim Picton
+Blenheim Kaikoura
+Kaikoura Blenheim
+Kaikoura Christchurch
+Christchurch Ashburton
+Christchurch Kaikoura
+Ashburton Christchurch
+Ashburton Timaru
+Ashburton Tekapo
+Timaru Ashburton
+Timaru Oamaru
+Oamaru Timaru
+Oamaru Dunedin
+Dunedin Oamaru
+Dunedin Tekapo
+Dunedin Wanaka
+Dunedin Queenstown
+Dunedin Gore
+Wanaka FoxGlacier
+Wanaka Queenstown
+Wanaka Tekapo
+Wanaka Dunedin
+Tekapo Queenstown
+Tekapo Wanaka
+Tekapo Ashburton
+Tekapo Dunedin
+Queenstown Wanaka
+Queenstown Tekapo
+Queenstown Dunedin
+Gore TeAnau
+Gore Dunedin
+Gore Invercargill
+TeAnau Gore
+Invercargill Gore

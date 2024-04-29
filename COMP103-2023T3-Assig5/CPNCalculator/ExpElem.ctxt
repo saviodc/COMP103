@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ExpElem
+comment0.text=\n\ ExpElem\:\ an\ element\ of\ an\ expression\ -\ either\ a\ String\ (an\ operator)\ or\ a\ number\n\ \ An\ operator\ or\ a\ named\ constant\ is\ stored\ in\ the\ operator\ field\n\ \ \ (and\ Double.NaN\ is\ stored\ in\ the\ value\ field).\n\ \ A\ number\ is\ stored\ in\ the\ value\ field,\n\ \ \ and\ "\#"\ is\ stored\ in\ the\ operator\ field\ to\ indicate\ that\ it\ is\ a\ number\n
+comment1.params=token
+comment1.target=ExpElem(java.lang.String)
+comment1.text=\n\ Construct\ an\ Expr\ given\ an\ operator\n
+comment2.params=v
+comment2.target=ExpElem(double)
+comment2.text=\n\ Construct\ an\ ExpElem\ given\ a\ number\n
+comment3.params=
+comment3.target=java.lang.String\ getOperator()
+comment3.text=\n\ Get\ the\ operator\ (or\ constant\ name)\ (a\ string)\n
+comment4.params=
+comment4.target=double\ getValue()
+comment4.text=\n\ Get\ the\ value\ (a\ number)\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Return\ a\ string\ for\ printing\n
+numComments=6

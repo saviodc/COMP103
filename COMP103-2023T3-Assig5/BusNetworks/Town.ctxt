@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Town
+comment0.text=\n\ \ Information\ about\ a\ town\:\n\ \ name\ and\ neighbours\n
+comment1.params=name
+comment1.target=Town(java.lang.String)
+comment1.text=\n\ Constructor\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ return\ the\ name\n
+comment3.params=
+comment3.target=java.util.Set\ getNeighbours()
+comment3.text=\n\ return\ the\ neighbours\ (unmodifiable)\n
+comment4.params=node
+comment4.target=void\ addNeighbour(Town)
+comment4.text=\n\ Add\ a\ new\ neighbour\ town\ to\ this\ town\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ return\ a\ string\ description\n
+numComments=6

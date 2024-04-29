@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CPNCalculator
+comment0.text=\n\ Calculator\ for\ Cambridge-Polish\ Notation\ expressions\n\ (see\ the\ description\ in\ the\ assignment\ page)\n\ User\ can\ type\ in\ an\ expression\ (in\ CPN)\ and\ the\ program\n\ will\ compute\ and\ print\ out\ the\ value\ of\ the\ expression.\n\ The\ template\ provides\ the\ method\ to\ read\ an\ expression\ and\ turn\ it\ into\ a\ tree.\n\ You\ have\ to\ write\ the\ method\ to\ evaluate\ an\ expression\ tree.\n\ \ and\ also\ check\ and\ report\ certain\ kinds\ of\ invalid\ expressions\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Setup\ GUI\ then\ run\ the\ calculator\n
+comment2.params=
+comment2.target=void\ setupGUI()
+comment2.text=\n\ Setup\ the\ GUI\n
+comment3.params=
+comment3.target=void\ runCalculator()
+comment3.text=\n\ Run\ the\ calculator\:\n\ loop\ forever\:\ \ (a\ REPL\ -\ Read\ Eval\ Print\ Loop)\n\ \ -\ read\ an\ expression,\n\ \ -\ evaluate\ the\ expression,\n\ \ -\ print\ out\ the\ value\n\ Invalid\ expressions\ could\ cause\ errors\ when\ reading\ or\ evaluating\n\ The\ try-catch\ prevents\ these\ errors\ from\ crashing\ the\ program\ -\ \n\ \ the\ error\ is\ caught,\ and\ a\ message\ printed,\ then\ the\ loop\ continues.\n
+comment4.params=expr
+comment4.target=double\ evaluate(GTNode)
+comment4.text=\n\ Evaluate\ an\ expression\ and\ return\ the\ value\n\ Returns\ Double.NaN\ if\ the\ expression\ is\ invalid\ in\ some\ way.\n\ If\ the\ node\ is\ a\ number\n\ \ \=>\ just\ return\ the\ value\ of\ the\ number\n\ or\ it\ is\ a\ named\ constant\n\ \ \=>\ return\ the\ appropriate\ value\n\ or\ it\ is\ an\ operator\ node\ with\ children\n\ \ \=>\ evaluate\ all\ the\ children\ and\ then\ apply\ the\ operator.\n
+comment5.params=
+comment5.target=GTNode\ readExpr()
+comment5.text=\n\ Reads\ an\ expression\ from\ the\ user\ and\ constructs\ the\ tree.\n
+comment6.params=n
+comment6.target=void\ printExpr(GTNode)
+comment7.params=sc
+comment7.target=GTNode\ readExpr(java.util.Scanner)
+comment7.text=\n\ Recursive\ helper\ method.\n\ Uses\ the\ hasNext(String\ pattern)\ method\ for\ the\ Scanner\ to\ peek\ at\ next\ token\n
+numComments=8
