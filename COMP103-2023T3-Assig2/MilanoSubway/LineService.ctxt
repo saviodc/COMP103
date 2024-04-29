@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=LineService
+comment0.text=\ \n\ LineService\n\ A\ particular\ train\ service\ running\ on\ a\ subway\ line.\n\ A\ line\ service\ is\ specified\ by\ a\ list\ of\ times\ that\ train\ leaves\n\ \ each\ station\ along\ the\ subway\ line.\n\ A\ LineService\ object\ contains\n\ \ -\ The\ SubwayLine\ that\ the\ service\ runs\ on\n\ \ -\ a\ ID\ of\ the\ train\ (the\ name\ of\ the\ line\ concatenated\ with\ the\ starting\ time\ of\ the\ train)\n\ \ -\ a\ list\ of\ times\ (integers\ representing\ 24-hour\ time,\ eg\ 1425\ for\ 2\:45pm),\ one\ for\n\ \ \ \ \ each\ station\ on\ the\ subway\ line.\n\ The\ getStart()\ method\ will\ return\ the\ first\ real\ time\ in\ the\ list\ of\ times\n
+comment1.params=line
+comment1.target=LineService(SubwayLine)
+comment1.text=\n\ Make\ a\ new\ LineService\ on\ a\ particular\ subway\ line.\n
+comment2.params=
+comment2.target=SubwayLine\ getSubwayLine()
+comment3.params=
+comment3.target=java.lang.String\ getTrainID()
+comment4.params=
+comment4.target=java.util.List\ getTimes()
+comment5.params=time
+comment5.target=void\ addTime(int)
+comment5.text=\n\ Add\ the\ next\ time\ to\ the\ LineService\n
+comment6.params=
+comment6.target=int\ getStart()
+comment6.text=\n\ Return\ the\ start\ time\ of\ this\ Train\ Service\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ ID\ plus\ number\ of\ stops\n
+numComments=8
